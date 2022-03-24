@@ -1,0 +1,66 @@
+body{
+    padding:30px;
+}
+#img1{
+    width:100%;
+}
+#navb{
+    margin:20px;
+    padding:20px;
+background-color: white;
+position:sticky;
+}
+#text{
+
+    margin:20px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: justify;
+}
+#text2{
+    margin:30px;
+    text-align: justify;
+}
+
+.nav-link{
+    color: black;
+    font-family:Arial, sans-serif;
+}
+#form{
+    margin:40px;
+
+}
+#sub{
+background-color: rgba(130, 22, 231, 0.918);
+color:white;
+
+}
+.row{
+  
+}
+#fname{
+    width:250px;
+    height:50px;
+}
+#sub{
+    height:50px;
+    width:100px;
+    border:none;
+    border-radius: 10px;
+}
+#but{
+    background-color: white;
+    height: 40px;
+    width: 70px;
+    border-color:rgba(130, 22, 231, 0.918) ;
+    color:rgba(130, 22, 231, 0.918);
+}
+#but:hover{
+    background-color:rgba(130, 22, 231, 0.918) ;
+    color:white;
+}
+h4{
+    color:rgba(130, 22, 231, 0.918);
+    font-family: DM Sans;
+}
+  
